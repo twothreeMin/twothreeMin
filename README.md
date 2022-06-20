@@ -11,6 +11,6 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 </div>
 
-![twothreeMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=foreverythinig1023@gmail.com&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverythinig1023@gmail.com&layout=compact&theme=vue-dark)
+![twothreeMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=twothreeMin&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twothreeMin&layout=compact&theme=vue-dark)
 
