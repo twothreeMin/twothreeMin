@@ -4,8 +4,10 @@
 프론트엔드 공부 중인 이상민입니다.
 
 ## 📋Lee Sang Min 
-<div> 
-    <img src="https://img.shields.io/badge/Velog-green?style=flat&logo=Velog&logoColor=white"/>
+<div>
+    <a href="https://velog.io/@foreverything">
+     <img src="https://img.shields.io/badge/Velog-green?style=flat&logo=Velog&logoColor=white"/>
+    </a>
 </div>
 
 ## 🛠 Skills
